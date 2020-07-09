@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win Weather WPF", "Win Weather WPF\Win Weather WPF.csproj", "{232ED5AE-4C5A-4EDB-A335-6550B898045C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Helper", "API Helper\API Helper.csproj", "{CC894B14-0CD2-40A9-8018-859E81AE568E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232ED5AE-4C5A-4EDB-A335-6550B898045C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232ED5AE-4C5A-4EDB-A335-6550B898045C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232ED5AE-4C5A-4EDB-A335-6550B898045C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232ED5AE-4C5A-4EDB-A335-6550B898045C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC894B14-0CD2-40A9-8018-859E81AE568E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC894B14-0CD2-40A9-8018-859E81AE568E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC894B14-0CD2-40A9-8018-859E81AE568E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC894B14-0CD2-40A9-8018-859E81AE568E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2173D82-04A7-42AF-87D8-2FFC3924BC67}
+	EndGlobalSection
+EndGlobal

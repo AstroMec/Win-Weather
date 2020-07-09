@@ -1,0 +1,18 @@
+﻿<Window x:Class="Win_Weather_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Win_Weather_WPF"
+        mc:Ignorable="d"
+        Title="Win Weather" Height="450" Width="800" WindowState="Maximized" Background="#FF95B7F4" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="WeatherBg" HorizontalAlignment="Stretch" Margin="0" VerticalAlignment="Stretch" RenderTransformOrigin="1,1" Stretch="Fill"/>
+        <Label x:Name="cityName" Content="[City name]" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" FontFamily="Microsoft YaHei UI" Foreground="White"/>
+        <Label x:Name="temp" Content="## °C" HorizontalAlignment="Center" Margin="0,53,0,0" VerticalAlignment="Top" FontFamily="Microsoft JhengHei UI" FontWeight="Bold" Foreground="White" FontSize="24"/>
+        <Label x:Name="skyDescr" Content="[Sky description]" HorizontalAlignment="Center" Margin="0,98,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold" FontFamily="Microsoft YaHei UI" Foreground="White"/>
+        <Label x:Name="humidity" Content="Humidity: ## %" HorizontalAlignment="Center" Margin="0,182,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontFamily="Microsoft YaHei UI" Foreground="White"/>
+        <Label x:Name="feelsLike" Content="Feels like: ## °C" HorizontalAlignment="Center" Margin="0,222,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontFamily="Microsoft YaHei UI" Foreground="White"/>
+        <Label x:Name="visibility" Content="Visibility: ## m" HorizontalAlignment="Center" Margin="0,269,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontFamily="Microsoft YaHei UI" Foreground="White"/>
+    </Grid>
+</Window>
