@@ -69,7 +69,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BD4C876405704A51BB4EC6A6F50A29F0"
+        "MsmKey" = "8:_CA915D90BF9D4FC0A79D43645E16B0C7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -298,6 +298,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CA915D90BF9D4FC0A79D43645E16B0C7"
+            {
+            "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Win Weather WPF.exe"
+            "TargetName" = "8:Win Weather WPF.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -366,7 +386,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Win Weather Setup"
         "ProductCode" = "8:{062CE84A-183E-45C5-99C6-5D1A04F9C6CD}"
-        "PackageCode" = "8:{51113D44-69CC-4652-978E-8FA08D4986C3}"
+        "PackageCode" = "8:{C588BA67-BE90-4E55-AE04-17221CF01053}"
         "UpgradeCode" = "8:{7E64869E-D50F-448A-BD41-EC5B06A0F1F3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -486,7 +506,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E6BBC8328EA842B794507A89D53E6A54"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_2B3834707749486BBF404583555E02CE"
             {
             "Name" = "8:Win Weather"
             "Arguments" = "8:"
@@ -494,13 +514,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_BD4C876405704A51BB4EC6A6F50A29F0"
+            "Target" = "8:_CA915D90BF9D4FC0A79D43645E16B0C7"
             "Folder" = "8:_291BFCBD17BC41CEB28A4DAE36CC5BD4"
             "WorkingFolder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
             "Icon" = "8:"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F3BFBBD62C51463C9795DA9CF9CC4B64"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DC355F9BDD9A476DBE27E00C7E0CDC04"
             {
             "Name" = "8:Win Weather"
             "Arguments" = "8:"
@@ -508,7 +528,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_BD4C876405704A51BB4EC6A6F50A29F0"
+            "Target" = "8:_CA915D90BF9D4FC0A79D43645E16B0C7"
             "Folder" = "8:_5B5588B63ED1467994655F578D7FC6FE"
             "WorkingFolder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
             "Icon" = "8:"
@@ -964,34 +984,6 @@
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{CC894B14-0CD2-40A9-8018-859E81AE568E}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_BD4C876405704A51BB4EC6A6F50A29F0"
-            {
-            "SourcePath" = "8:..\\Win Weather WPF\\obj\\Debug\\netcoreapp3.1\\Win Weather WPF.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:Built"
-            "OutputProjectGuid" = "8:{232ED5AE-4C5A-4EDB-A335-6550B898045C}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
