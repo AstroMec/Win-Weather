@@ -26,9 +26,7 @@ namespace Win_Weather_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        string allCachePath = Assembly.GetExecutingAssembly().Location.Split('\\')
-                .SkipLast(1).Skip(1)
-                .Aggregate("C:", (w1, w2) => $"{w1}\\{w2}"); //This will get the path of the exe file and remove the exe file on the path.
+        string appDataPath = $@"{Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)}\.winweather";
 
         /// <summary>
         /// This will allow us to cache it (by serializing the data).
@@ -55,8 +53,8 @@ namespace Win_Weather_WPF
         private async Task LoadWeatherData()
         {
 
-            string weatherCachePath = @$"{allCachePath}\WeatherCache.xml";
-            string locationCachePath = @$"{allCachePath}\LocationCache.xml";
+            string weatherCachePath = @$"{appDataPath}\WeatherCache.xml";
+            string locationCachePath = @$"{appDataPath}\LocationCache.xml";
 
             try
             {
@@ -94,16 +92,16 @@ namespace Win_Weather_WPF
         private void LoadBackGround()
         {
             if (Weather.CloudDescription.ToLower().Contains("overcast"))
-                WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\OvercastClouds.bmp"));
+                WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\OvercastClouds.bmp"));
             else if (Weather.CloudDescription.ToLower().Contains("broken"))
-                WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\BrokenClouds.bmp"));
+                WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\BrokenClouds.bmp"));
             else if (Weather.CloudDescription.ToLower().Contains("rain"))
-                WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\Rain.bmp"));
+                WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\Rain.bmp"));
             else if (Weather.CloudDescription.ToLower().Contains("scattered") || Weather.CloudDescription.ToLower().Contains("few"))
-                WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\ScatteredClouds.bmp"));
+                WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\ScatteredClouds.bmp"));
             else if (Weather.CloudDescription.ToLower().Contains("clear"))
-                WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\ClearSky.bmp"));
-            else WeatherBg.Source = new BitmapImage(new Uri(@$"{allCachePath}\Resources\Unknown.bmp"));
+                WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\ClearSky.bmp"));
+            else WeatherBg.Source = new BitmapImage(new Uri(@$"{appDataPath}\Resources\Unknown.bmp"));
         }
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)

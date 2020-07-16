@@ -16,13 +16,13 @@
         "Entry"
         {
         "MsmKey" = "8:_00FB41CA61EF1630D8F983366DE47C96"
-        "OwnerKey" = "8:_96347388C398A47295D6C68D9E99DB42"
+        "OwnerKey" = "8:_D0C2045D535248FC89632B4D0AF2E855"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_00FB41CA61EF1630D8F983366DE47C96"
-        "OwnerKey" = "8:_D0C2045D535248FC89632B4D0AF2E855"
+        "OwnerKey" = "8:_96347388C398A47295D6C68D9E99DB42"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -196,13 +196,13 @@
         "Entry"
         {
         "MsmKey" = "8:_9DF08C575EB17F417B5AEB8EE28FAADA"
-        "OwnerKey" = "8:_96347388C398A47295D6C68D9E99DB42"
+        "OwnerKey" = "8:_D0C2045D535248FC89632B4D0AF2E855"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_9DF08C575EB17F417B5AEB8EE28FAADA"
-        "OwnerKey" = "8:_D0C2045D535248FC89632B4D0AF2E855"
+        "OwnerKey" = "8:_96347388C398A47295D6C68D9E99DB42"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -256,6 +256,12 @@
         "Entry"
         {
         "MsmKey" = "8:_DFBBB45811526F817177903718BD6B80"
+        "OwnerKey" = "8:_C833AF7F779B4B64912030761EC77E40"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DFBBB45811526F817177903718BD6B80"
         "OwnerKey" = "8:_7ADC7D23B56EF5BF3025EEF1EA4106A3"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -263,12 +269,6 @@
         {
         "MsmKey" = "8:_DFBBB45811526F817177903718BD6B80"
         "OwnerKey" = "8:_53D894D9D4584C57B198E11D92046B92"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DFBBB45811526F817177903718BD6B80"
-        "OwnerKey" = "8:_C833AF7F779B4B64912030761EC77E40"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -310,13 +310,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_87F3E2C3F7C34EEDA6B2129B54B0D144"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_DFBBB45811526F817177903718BD6B80"
+        "OwnerKey" = "8:_F9CBF2D129515D8D4D0A7FEC6F0D5B97"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -328,7 +322,37 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F9CBF2D129515D8D4D0A7FEC6F0D5B97"
+        "OwnerKey" = "8:_DFBBB45811526F817177903718BD6B80"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A53747F01599190ED27401882D09AFC3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A0F542644662B20BA336ACDA8C8DDF92"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9FB9B05A1529F020B55371D20272241D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9DF08C575EB17F417B5AEB8EE28FAADA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_87F3E2C3F7C34EEDA6B2129B54B0D144"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -346,19 +370,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_287E88C22B460AA67182EA750C083D20"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_52C5591F949A6C5D8F7300F51ECA7130"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_01E85EA8DDB9F432D7650A66208B7DDE"
+        "OwnerKey" = "8:_5E4AED901017345A3CE07EB8E3BCAD13"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -370,37 +382,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_18D4F7329505F00FFD836F17B38617AF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5E4AED901017345A3CE07EB8E3BCAD13"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A0F542644662B20BA336ACDA8C8DDF92"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2DCB82A41D65923FA3A5371A33146A1E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_31E6B7BC98E174CF2AB1BF9C37917370"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A53747F01599190ED27401882D09AFC3"
+        "OwnerKey" = "8:_52C5591F949A6C5D8F7300F51ECA7130"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -412,13 +394,31 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9FB9B05A1529F020B55371D20272241D"
+        "OwnerKey" = "8:_31E6B7BC98E174CF2AB1BF9C37917370"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9DF08C575EB17F417B5AEB8EE28FAADA"
+        "OwnerKey" = "8:_2DCB82A41D65923FA3A5371A33146A1E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_287E88C22B460AA67182EA750C083D20"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_18D4F7329505F00FFD836F17B38617AF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_01E85EA8DDB9F432D7650A66208B7DDE"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -439,6 +439,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -455,6 +463,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -592,7 +608,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\OvercastClouds.bmp"
             "TargetName" = "8:OvercastClouds.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -612,7 +628,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\WeatherCache.xml"
             "TargetName" = "8:WeatherCache.xml"
             "Tag" = "8:"
-            "Folder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
+            "Folder" = "8:_1FDC01EEBFE44BAAA75FAC6BA26CD600"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -632,7 +648,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\BrokenClouds.bmp"
             "TargetName" = "8:BrokenClouds.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -765,7 +781,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\ScatteredClouds.bmp"
             "TargetName" = "8:ScatteredClouds.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -847,7 +863,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\ClearSky.bmp"
             "TargetName" = "8:ClearSky.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -867,7 +883,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\LocationCache.xml"
             "TargetName" = "8:LocationCache.xml"
             "Tag" = "8:"
-            "Folder" = "8:_A9D362E9EFCD46018B360AB76996EABD"
+            "Folder" = "8:_1FDC01EEBFE44BAAA75FAC6BA26CD600"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1011,7 +1027,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\Unknown.bmp"
             "TargetName" = "8:Unknown.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1248,7 +1264,7 @@
             "SourcePath" = "8:..\\Win Weather WPF\\bin\\Debug\\netcoreapp3.1\\Resources\\Rain.bmp"
             "TargetName" = "8:Rain.bmp"
             "Tag" = "8:"
-            "Folder" = "8:_9F8F88C5C4514EE2A41021D8F2540591"
+            "Folder" = "8:_71AE2E0D746C4F509667518158140B5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1639,6 +1655,39 @@
                 {
                 }
             }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_67EE43A4170D4BBBAA3744142A53C419"
+            {
+            "Name" = "8:#1915"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:AppDataFolder"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_1FDC01EEBFE44BAAA75FAC6BA26CD600"
+                    {
+                    "Name" = "8:.winweather"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_5BC8F7BDDAA94AF884781EA9964F72F7"
+                        "Folders"
+                        {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_71AE2E0D746C4F509667518158140B5B"
+                            {
+                            "Name" = "8:Resources"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_0125559BFDE0441F8DC4942570172C2A"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                }
+            }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_A9D362E9EFCD46018B360AB76996EABD"
             {
             "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
@@ -1649,17 +1698,6 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_9F8F88C5C4514EE2A41021D8F2540591"
-                    {
-                    "Name" = "8:Resources"
-                    "AlwaysCreate" = "11:FALSE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_0125559BFDE0441F8DC4942570172C2A"
-                        "Folders"
-                        {
-                        }
-                    }
                 }
             }
         }
